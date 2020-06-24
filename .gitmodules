@@ -1,0 +1,3 @@
+[submodule "src/Trade-Dangerous"]
+	path = src/Trade-Dangerous
+	url = https://github.com/eyeonus/Trade-Dangerous
